@@ -29,9 +29,9 @@ GreenDen is a modern and responsive plant store website built using **HTML**, **
 └── styles.css(framework:-Tailwind)
 
 🌐 Live Demo
-Greendentailwind Repositry link:https://coderaajiv.github.io/Greenden-tailwand-project/
+Greendentailwind Repositry link:https://github.com/CodeRaajiv/Greenden-tailwand-project
 
-Greendentailwind Project live Demo link:https://github.com/CodeRaajiv/Greenden-tailwand-project
+Greendentailwind Project live Demo link:https://coderaajiv.github.io/Greenden-tailwand-project/
 
 The website was build buy:-
 www.linkedin.com/in/raajivg
