@@ -19,9 +19,13 @@ GreenDen is a modern and responsive plant store website built using **HTML**, **
 📂 Folder Structure
 
 ├── index.html
+
 ├── product.html 
+
 ├── contanct.html
+
 └── tailwind.config.js
+
 └── styles.css(framework:-Tailwind)
 
 🌐 Live Demo
